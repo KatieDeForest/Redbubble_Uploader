@@ -31,7 +31,7 @@ drvr.execute_cdp_cmd("Page.addScriptToEvaluateOnNewDocument", {
         "delete newProto.webdriver;"
         "navigator.__proto__ = newProto;"
     })
-drvr.get('https://www.redbubble.com/portfolio/images/new')
+drvr.get('https://www.redbubble.com/portfolio/images/128434997-beautiful-young-woman/duplicate')
 
 
 
